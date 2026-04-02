@@ -183,3 +183,4 @@ After that we run a BFS to find the shortest walk from the starting vertex $(s, 
 * [CSES - Labyrinth](https://cses.fi/problemset/task/1193)
 * [CSES - Message Route](https://cses.fi/problemset/task/1667/)
 * [CSES - Monsters](https://cses.fi/problemset/task/1194)
+* [LeetCode - Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
